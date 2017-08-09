@@ -1,0 +1,12 @@
+{
+    "service": {
+        "route": "/tracX",
+        "port": 8082
+    },
+    "access": {
+        "route": "/access"
+    },
+    "db": {
+        "databaseURL":"mongodb://127.0.0.1:27017/tracx"
+    }
+}

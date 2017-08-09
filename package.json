@@ -1,0 +1,15 @@
+{
+  "name": "time4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://service.radixeng.com.br:8888/hackaton/time4.git"
+  },
+  "author": "time4",
+  "license": "MIT"
+}
